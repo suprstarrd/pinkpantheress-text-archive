@@ -64,7 +64,7 @@ Welcome back. Message STOP to cancel
 here's some cute backgrounds for our chats! hope you devour🥵
 https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms Msg frequency will vary. Msg&Data rates may apply. Reply HELP for help, STOP to cancel.
 ```
-[[contact attachment]](#introductionwelcome-text)
+[[contact attachment]](./contact.vcf)
 
 [<sub>[1] `https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms` -> `https://www.dropbox.com/scl/fo/6to56fq9u2fcr11p2zfw1/ACoC9kTOtlRtQ1en-Z1gfFY?rlkey=tvmmp57fx0b9avelyjkcejg5l&e=1&st=dn619lu2&utm_medium=sms&utm_source=community.com&dl=0`</sub>](https://www.dropbox.com/scl/fo/6to56fq9u2fcr11p2zfw1/ACoC9kTOtlRtQ1en-Z1gfFY?rlkey=tvmmp57fx0b9avelyjkcejg5l&e=1&st=dn619lu2&utm_medium=sms&utm_source=community.com&dl=0)<br>
 <sub>This text is sent on both SMS/MMS and WhatsApp, even though the backgrounds are intended for WhatsApp chats.</sub>
