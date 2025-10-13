@@ -77,4 +77,4 @@ https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms Msg fr
 ```
 got together with some fab artists from around the world to bring you 'fancy some more' and it's out now!! 🥹 https://pinkpantheress.lnk.to/fancysomemore?utm_source=community.com&utm_medium=sms
 ```
-[[image to add]](#worldwide-texts)
+![The "Fancy Some More" album cover](./images/fancysomemore.jpeg)
