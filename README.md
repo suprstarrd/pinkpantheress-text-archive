@@ -1,4 +1,4 @@
-# PinkPantheress text archives
+# PinkPantheress text archive
 Collection of PinkPantheress texts around the world.
 
 You can receive automated texts from PinkPantheress at +1 (917) 810-3401 [over SMS/MMS in the United States, Canada, and Puerto Rico](https://my.community.com/pinkpantheress); or [on WhatsApp internationally](https://pinkpantheress.lnk.to/textme).
