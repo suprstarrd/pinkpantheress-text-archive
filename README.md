@@ -70,10 +70,11 @@ https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms Msg fr
 <sub>This text is sent on both SMS/MMS and WhatsApp, even though the backgrounds are intended for WhatsApp chats.</sub>
 
 ## Worldwide texts
-*Many texts are known to be missing!*
+**Many texts are known to be missing!**
 
 <hr>
 
+*Sent at Friday, October 10th, 2025 2:00PM UTC*
 ```
 got together with some fab artists from around the world to bring you 'fancy some more' and it's out now!! 🥹 https://pinkpantheress.lnk.to/fancysomemore?utm_source=community.com&utm_medium=sms
 ```
