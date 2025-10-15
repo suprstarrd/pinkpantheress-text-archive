@@ -3,7 +3,7 @@
 # PinkPantheress text archive
 Collection of PinkPantheress texts around the world.
 
-You can receive automated texts from PinkPantheress at +1 (917) 810-3401 [over SMS/MMS in the United States, Canada, and Puerto Rico<sub>[need to verify]</sub>](https://my.community.com/pinkpantheress); or [on WhatsApp internationally](https://pinkpantheress.lnk.to/textme).
+You can receive automated texts from PinkPantheress at +1 (917) 810-3401 [over SMS/MMS in the United States, Canada, and Puerto Rico](https://my.community.com/pinkpantheress); or [on WhatsApp internationally (excluding the United States, Canada, and Puerto Rico)](https://pinkpantheress.lnk.to/textme).
 
 ## Texting WhatsApp in the United States, Canada, or Puerto Rico
 ```
@@ -90,3 +90,10 @@ https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms Msg fr
 got together with some fab artists from around the world to bring you 'fancy some more' and it's out now!! 🥹 https://pinkpantheress.lnk.to/fancysomemore?utm_source=community.com&utm_medium=sms
 ```
 ![The "Fancy Some More" album cover](./images/fancysomemore.jpeg)
+
+## "To hell with it" sparkle vinyl text
+*Sent at Wednesday, October 15th, 2025 12:30PM UTC*
+```
+happy to hell with it day 🥹 i heard you guys.. so to celebrate 4 years, i'm releasing a sparkle vinyl!! you can pre-order it now https://pinkpantheress.lnk.to/thwi?utm_source=community.com&utm_medium=sms
+```
+![The "To hell with it" sparkle vinyl](./images/tohellwithitvinyl.jpeg)
