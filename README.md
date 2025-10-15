@@ -3,7 +3,9 @@ Collection of PinkPantheress texts around the world.
 
 You can receive automated texts from PinkPantheress at +1 (917) 810-3401 [over SMS/MMS in the United States, Canada, and Puerto Rico](https://my.community.com/pinkpantheress); or [on WhatsApp internationally (excluding the United States, Canada, and Puerto Rico)](https://pinkpantheress.lnk.to/textme).
 
-**This page is a work in progress!** If you see a text missing here (excluding placeholders), or see something that needs to be verified, and think you might be able to help, DM me on Twitter or Instagram (same @)!
+If you see a text missing here (excluding placeholders), or see something that needs to be verified, and think you might be able to help, DM me on Twitter or Instagram (same @)!
+
+***This page is a work in progress!** Texts are still actively being added.*
 
 ## Texting WhatsApp in the United States, Canada, or Puerto Rico
 ```
@@ -81,6 +83,17 @@ https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms Msg fr
 
 ## "Tonight" single artwork reveal text
 *Sent worldwide at Friday, March 28th, 2025 7:00PM UTC*
+```
+'tonight' is out next week and I wanted to give you first look of the artwork!! can't wait to see your edits 😌
+```
+[image to add]
+
+## "Tonight" music video announcement text
+*Sent worldwide at Thursday, April 3rd, 2025 6:00PM UTC*
+```
+you guys my first single is coming out, WITH a music video! this is hopefully going to be an exciting journey, stay tuned 💋 [link missing for this text! if you have it, please DM me!]
+```
+[video is missing for this text! if you have it, please DM me!]
 
 ## "Tonight" music video release text
 *Sent worldwide at Friday, April 4th, 2025 3:15PM UTC*
@@ -124,6 +137,11 @@ https://pinkpantheress.lnk.to/bgs?utm_source=community.com&utm_medium=sms Msg fr
 
 ## Come to New York text
 *Sent worldwide (verify) at Wednesday, April 30th, 2025 10:00AM UTC*
+```
+wanna come to new york? 👀 https://pinkpantheress.lnk.to/fancythatstore?utm_source=community.com&utm_medium=sms
+```
+
+[<sub>[1] `https://pinkpantheress.lnk.to/fancythatstore?utm_source=community.com&utm_medium=sms` -> `https://wmg.lnk.to/fancythat?utm_source=community.com&utm_medium=sms` -> `https://store.warnermusic.com/collections/pink-pantheress?ref=https%3A%2F%2Fpinkpantheress.lnk.to%2F&utm_source=community.com&utm_medium=sms` -> `https://store.warnermusic.com/collections/pinkpantheress?ref=https%3A%2F%2Fpinkpantheress.lnk.to%2F&utm_medium=sms&utm_source=community.com`</sub>](https://store.warnermusic.com/collections/pinkpantheress?ref=https%3A%2F%2Fpinkpantheress.lnk.to%2F&utm_medium=sms&utm_source=community.com)
 
 ## "Fancy that" hype text
 *Sent worldwide at Wednesday, April 30th, 2025 8:00PM UTC*
