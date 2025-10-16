@@ -182,3 +182,9 @@ got together with some fab artists from around the world to bring you 'fancy som
 happy to hell with it day 🥹 i heard you guys.. so to celebrate 4 years, i'm releasing a sparkle vinyl!! you can pre-order it now https://pinkpantheress.lnk.to/thwi?utm_source=community.com&utm_medium=sms
 ```
 ![The "To hell with it" sparkle vinyl](./images/tohellwithitvinyl.jpeg)
+
+## "To hell with it" sparkle vinyl restock text
+*Sent at Thursday, October 16th, 2025 4:15PM UTC*
+```
+you guys sold those vinyls out so quick omg 🥹😭 added a few more for those that missed out 🌹 https://pinkpantheress.lnk.to/thwi?utm_source=community.com&utm_medium=sms
+```
